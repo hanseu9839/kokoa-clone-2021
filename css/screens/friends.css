@@ -12,6 +12,12 @@
     color: rgba(0,0,0,0.3);
 }
 
+.freiends-screen__channel{
+    margin-top: 25px;
+    border-top: var(--main-border);
+    padding-top:15px;
+}
+
 .freiends-screen__channel-header{
     margin-bottom: 30px;
     display:flex;
